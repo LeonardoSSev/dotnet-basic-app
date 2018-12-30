@@ -1,0 +1,11 @@
+/home/ablono/dev/study/c#/basic/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/home/ablono/dev/study/c#/basic/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/home/ablono/dev/study/c#/basic/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/home/ablono/dev/study/c#/basic/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/home/ablono/dev/study/c#/basic/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/home/ablono/dev/study/c#/basic/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/home/ablono/dev/study/c#/basic/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/home/ablono/dev/study/c#/basic/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/home/ablono/dev/study/c#/basic/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/home/ablono/dev/study/c#/basic/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/home/ablono/dev/study/c#/basic/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
